@@ -1,0 +1,3 @@
+# La page /gauntlet/ancienne-page.html n'existe pas : elle redirige, pour que
+# gauntlet/link-to-redirect.html porte bien la famille page_has_links_to_redirect.
+/gauntlet/ancienne-page.html   /gauntlet/index.html   301

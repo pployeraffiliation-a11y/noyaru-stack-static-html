@@ -1,0 +1,3 @@
+/* Feuille de style minimale : elle existe pour que les pages du parcours qui la chargent
+   en http ne portent pas AUSSI une ressource introuvable. */
+body { font-family: system-ui; }

@@ -3,4 +3,36 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/blog</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/a-propos</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/canonical-http.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/canonical-other.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/double-slash.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/duplicate-a.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/duplicate-b.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/hreflang-invalid.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/hreflang-no-html-lang.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/hreflang-to-non-canonical.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/html-lang-invalid.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/html-lang-missing.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/link-http.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/link-to-redirect.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/missing-h1.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/missing-meta-description.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/missing-title.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/mixed-css.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/mixed-image.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/mixed-js.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/multiple-h1.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/multiple-meta-description-tags.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/multiple-title-tags.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/no-canonical-a.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/no-canonical-b.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/og-incomplete.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/og-missing.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/schema-invalid.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/title-too-short.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/twitter-incomplete.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/twitter-missing.html</loc></url>
+  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/viewport-not-set.html</loc></url>
 </urlset>
