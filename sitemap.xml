@@ -3,7 +3,6 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/blog</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/a-propos</loc></url>
-  <url><loc>https://noyaru-stack-static-html.netlify.app/page-absente</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/missing-title</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/missing-meta-description</loc></url>
@@ -45,5 +44,4 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/html-lang-invalid</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-no-description</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long</loc></url>
-  <url><loc>https://noyaru-stack-static-html.netlify.app/page-absente</loc></url>
 </urlset>
