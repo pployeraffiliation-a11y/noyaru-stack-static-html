@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Comment verifier les balises canoniques d'un site</title>
+    <meta name="description" content="Guide pratique pour verifier les balises canoniques d'un site : ou les trouver, comment les lire, et les pieges frequents a eviter." />
+    <link rel="canonical" href="https://noyaru-stack-static-html.netlify.app/gauntlet/comment-verifier-les-balises-canoniques-d-un-site" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Comment verifier les balises canoniques d'un site" />
+    <meta property="og:description" content="Guide pratique pour verifier les balises canoniques d'un site : ou les trouver, comment les lire, et les pieges frequents a eviter." />
+    <meta property="og:url" content="https://noyaru-stack-static-html.netlify.app/gauntlet/comment-verifier-les-balises-canoniques-d-un-site" />
+    <meta property="og:image" content="https://noyaru-stack-static-html.netlify.app/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Comment verifier les balises canoniques d'un site" />
+    <meta name="twitter:description" content="Guide pratique pour verifier les balises canoniques d'un site : ou les trouver, comment les lire, et les pieges frequents a eviter." />
+    <meta name="twitter:image" content="https://noyaru-stack-static-html.netlify.app/og.png" />
+  </head>
+  <body>
+    <h1>Comment verifier les balises canoniques d'un site</h1>
+    <p>La balise canonique indique aux moteurs de recherche quelle URL est la version de reference d'une page. Elle prend la forme d'un element link place dans la section head du document, avec l'attribut rel egal a canonical et une URL absolue dans href.</p>
+    <h2>Ou la trouver</h2>
+    <p>Ouvrez le code source de la page (clic droit puis afficher le source, ou les outils de developpement du navigateur) et cherchez dans le head la ligne rel=canonical. Une page bien reglee ne doit contenir qu'une seule balise de ce type.</p>
+    <h2>Ce qu'il faut controler</h2>
+    <p>Verifiez que l'URL declaree pointe bien vers une page qui existe et repond avec un code 200. Une canonique qui vise une page absente ou une erreur envoie un signal contradictoire au crawl. Assurez-vous aussi que l'URL est absolue, coherente en protocole et en domaine, et qu'elle ne se contredit pas d'une page a l'autre.</p>
+    <h2>Pieges frequents</h2>
+    <p>Plusieurs balises canoniques sur une meme page, une canonique en boucle qui pointe partout vers l'accueil, ou une canonique injectee par un script apres le chargement sont autant de cas qui brouillent l'indexation. Un controle au crawl reel, sur le HTML servi, reste le moyen le plus fiable de les detecter.</p>
+    <p><a href="/">Retour a l accueil</a></p>
+  </body>
+</html>
