@@ -47,4 +47,7 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long</loc></url>
   <url><loc>http://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/page-absente</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-canonical-a</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-canonical-b</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-self-loop</loc></url>
 </urlset>
