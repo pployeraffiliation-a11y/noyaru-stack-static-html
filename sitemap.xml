@@ -47,4 +47,9 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long</loc></url>
   <url><loc>http://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/page-absente</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-hop-source</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-chain-source</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-relay</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-master</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-control</loc></url>
 </urlset>
