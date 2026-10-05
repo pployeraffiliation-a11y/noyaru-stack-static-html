@@ -51,4 +51,9 @@
 
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-master</loc></url>
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-control</loc></url>
-<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-a</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-control</loc></url></urlset>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-a</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-control</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/ancienne-page</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-hop-old</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-sitemap-chain</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-sitemap-noindex</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-sitemap-noncanonical</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
+</urlset>
