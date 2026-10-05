@@ -60,4 +60,7 @@
 
 <url><loc>http://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long</loc></url>
 <url><loc>http://noyaru-stack-static-html.netlify.app/gauntlet/qa-sitemap-missing-a</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-control</loc></url>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-master</loc></url>
 </urlset>
