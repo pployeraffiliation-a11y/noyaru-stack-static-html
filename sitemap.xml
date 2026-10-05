@@ -42,8 +42,8 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/schema-no-type</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/html-lang-missing</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/html-lang-invalid</loc></url>
-  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-no-description</loc></url>
-  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long</loc></url>
+  
+  
   <url><loc>http://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/page-absente</loc></url>
 
@@ -54,6 +54,6 @@
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-a</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-control</loc></url>
 
 
-<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-sitemap-noindex</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
+
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-sitemap-noncanonical</loc><lastmod>2001-01-01</lastmod><priority>0.1</priority></url>
 </urlset>
