@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://noyaru-stack-static-html.netlify.app/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/blog</loc></url>
@@ -52,4 +51,4 @@
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-relay</loc></url>
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-master</loc></url>
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-control</loc></url>
-</urlset>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-a</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-b</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-control</loc></url></urlset>
