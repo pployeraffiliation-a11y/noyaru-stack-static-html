@@ -15,8 +15,8 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/duplicate-a</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/duplicate-b</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/canonical-http</loc></url>
-  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/canonical-relay</loc></url>
-  <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/canonical-other</loc></url>
+  
+  
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/canonical-404</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/no-canonical-a</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/no-canonical-b</loc></url>
@@ -46,9 +46,9 @@
   <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/noindex-long</loc></url>
   <url><loc>http://noyaru-stack-static-html.netlify.app/gauntlet/</loc></url>
   <url><loc>https://noyaru-stack-static-html.netlify.app/page-absente</loc></url>
-<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-hop-source</loc></url>
-<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-chain-source</loc></url>
-<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-relay</loc></url>
+
+
+
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-master</loc></url>
 <url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-control</loc></url>
-<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-a</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-b</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-control</loc></url></urlset>
+<url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-a</loc></url><url><loc>https://noyaru-stack-static-html.netlify.app/gauntlet/qa-dupe-control</loc></url></urlset>
